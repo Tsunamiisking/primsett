@@ -11,7 +11,7 @@ reasoning behind it. Every feature traces back to a real user interview.
 ## Structure
 
 ```
-slotly/
+Primsett/
   apps/
     web/        Next.js 14 — Tech App (PWA) + Booking Pages + Marketplace
     api/        Fastify — REST API + Webhook handlers
