@@ -1,7 +1,7 @@
-# Slotly
+# Primsett
 
 Nigerian beauty booking platform — booking management, client communication,
-and marketplace for nail techs, lash techs, makeup artists, and stylists.
+and a marketplace for nail techs, lash techs, makeup artists, and stylists.
 
 ## Before you touch anything
 
